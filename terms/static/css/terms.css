@@ -1,0 +1,9 @@
+/* CSS for TermsXBlock */
+
+.terms_block .count {
+    font-weight: bold;
+}
+
+.terms_block p {
+    cursor: pointer;
+}
