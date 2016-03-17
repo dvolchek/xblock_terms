@@ -18,7 +18,7 @@ class TermsXBlock(XBlock):
     # TO-DO: delete count, and define your own fields.
     count = Integer(
         default=0, scope=Scope.user_state,
-        help="A simple counter, to show something happening",
+        help="A simple counter, testing to show something happening",
     )
 
     def resource_string(self, path):
