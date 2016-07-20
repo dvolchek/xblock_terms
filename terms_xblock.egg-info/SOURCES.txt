@@ -1,0 +1,12 @@
+terms/__init__.py
+terms/terms.py
+terms/static/README.txt
+terms/static/css/terms.css
+terms/static/html/terms.html
+terms/static/js/src/terms.js
+terms_xblock.egg-info/PKG-INFO
+terms_xblock.egg-info/SOURCES.txt
+terms_xblock.egg-info/dependency_links.txt
+terms_xblock.egg-info/entry_points.txt
+terms_xblock.egg-info/requires.txt
+terms_xblock.egg-info/top_level.txt
