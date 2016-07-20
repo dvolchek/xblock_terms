@@ -19,6 +19,7 @@ class TermsXBlock(XBlock):
     # self.<fieldname>.
 
     # TO-DO: delete count, and define your own fields.   
+    #two arrays to store temp data
 
     arr = []
     overall = []
